@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.box {
+    display: block;
+    padding: 4px 73px 4px 220px;
+    background-color: rgb(107 107 107);
+    font-size: 20px;
+    color: white;
+    margin-top: 4px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.portal {
+    display: block;
+    padding: 11px 0px 21px 208px;
+    background-color: white;
+    
+}
+
+.pic{
+    height: 10% !important;
+    width: 30% !important;
+}
+.anu{
+
+    margin: -88px 4px 28px 748px
+
+}
+
+.navbar{
+    margin-top: 4px;
+    padding: 1px!important;
+    margin: 0px;
+}
+
+.bg-dark {
+    opacity: 1;
+}
+.container-fluid{
+    width: 73%!important;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: 0px!important;
+    margin-left: auto;
+    
+}
+.navbar-brand{
+    padding: 0px 22px 0px 0px;
+    margin-right: 1rem!important;
+    margin-left: -14.3rem!important;
+    font-size: 17px!important;
+
+}
+.bg-dark{
+    background-color: aqua none!important;
+}
+.pic{
+    height: 150px;
+    width: 180px;
+
+}
+
+
+/* .hp-callout-cards-image-bg.card--collectibles-grading {
+    background-image: url(/img/lc.jpg)!important;
+} */
+
+
+.img-fluid {
+    width: 99%;
+    margin: 32px 0px 0px 6px;
+    height: 80% !important;
+
+
+}
+
